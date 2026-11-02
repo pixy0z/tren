@@ -5,9 +5,6 @@ body{
     align-items: center;
 }
 
-.block {
-    width: 100px;
-    height: 100px;
-    background-color: #000;
-    margin: 10px;
+.blocks {
+font-size: 40px;
 }
